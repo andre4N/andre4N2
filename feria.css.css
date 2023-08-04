@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+body{
+    background: linear-gradient(rgb(155, 193, 156), rgb(255, 255, 255));
+}
+
+header{
+    background: linear-gradient(rgb(82, 6, 6), rgb(121, 14, 14), rgb(156, 43, 43));
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 8px;
+    text-align: center;
+    height: 90px;
+}
+h1{
+    font-family: 'Cardo', serif;
+}
+h2{
+    color: darkolivegreen;
+    font-size: larger;
+    font-family: 'Cardo', serif;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(0, 17, 255);
+    text-decoration: underline;
+}
+
+
+table{
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid rgb(43, 71, 75);
+    padding: 3px;
+  }
+  strong{
+    font-size: 23px;
+  }
+
+hr{
+    background-color:black
+}
+footer{
+    background: linear-gradient(rgb(82, 6, 6), rgb(121, 14, 14), rgb(156, 43, 43));
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 8px;
+    text-align: center;
+    height: 65px;
+}
+.logo{
+    position: sticky;
+    align-items: center;
+}
+
+.titulo{
+    font-size: 25px;
+}
+
+.links{
+    background-color: srgb(193, 255, 245);
+    height: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    position: static;
+    text-align: center;
+    
+}
+
+.txt{
+    text-align: justify;
+    padding: 10px;
+    font-size: larger;
+}
+
+.datas{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: larger;
+    text-align: center;
+}
+
+.stitulo{
+    font-size: medium;
+}
+.jk{
+    font-family: 'Gloria Hallelujah', cursive;
+    color: crimson;
+}
+.imgg{
+    padding-left: 27%;
+}
+.img2{
+    padding-left: 16%;
+    box-shadow: 16px, gold;
+}
+.img3{
+    padding-left: 10px;
+}
+.vidd{
+    padding-left: 33%;
+}
+.giro{
+    padding-left: 26%;
+}
+.g2{
+    padding-right: 15%;
+}
